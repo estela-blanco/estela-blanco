@@ -9,17 +9,19 @@ I’m an environmental epidemiologist originally from California, but live and w
 
 <h2>🎬 Project Videos (Spanish)</h2>
 
+<p><em>📺 Click a thumbnail to watch the video (right-click and choose "Open link in new tab" to keep this page open)</em></p>
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://youtu.be/7eh6WzN2fiI" target="_blank">
+      <a href="https://youtu.be/7eh6WzN2fiI">
         <img src="https://img.youtube.com/vi/7eh6WzN2fiI/0.jpg" alt="Cambio climático y salud del recién nacido" width="300"/>
       </a>
       <br/>
       <strong>Cambio climático y salud del recién nacido</strong>
     </td>
     <td align="center" width="50%">
-      <a href="https://youtu.be/tu99fLwFd08" target="_blank">
+      <a href="https://youtu.be/tu99fLwFd08">
         <img src="https://img.youtube.com/vi/tu99fLwFd08/0.jpg" alt="Exposición a temperaturas extremas y peso al nacer" width="300"/>
       </a>
       <br/>
